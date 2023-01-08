@@ -1,0 +1,5 @@
+{
+  "ignore": ["playground.js", "*.md", "./src/uploads/*"],
+  "watch": ["./src/*"],
+  "ext": "js,json"
+}

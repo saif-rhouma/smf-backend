@@ -1,0 +1,8 @@
+/node_modules
+/build
+/dist
+/logs
+/src/uploads/*
+
+.env
+playground.js
